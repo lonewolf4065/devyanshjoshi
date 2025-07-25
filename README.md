@@ -1,2 +1,3 @@
 # devyanshjoshi
-this is my first gi trepository
+this is my first git trepository
+author- devyansh joshi 
